@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Samhita!
 
-<div align="center">
-  <iframe src="https://giphy.com/embed/YemMpwy0S6SHzXyhND" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/crybabiesmagictears-bff-bebesllorones-bebsllorones-YemMpwy0S6SHzXyhND">via GIPHY</a></p>
-</div>
 
 ## 🚀 About Me
 - 🎓 B.Tech in Information Technology @ Velammal College of Engineering & Technology, Madurai.
@@ -34,6 +31,3 @@
 ## 🌟 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/samhitamahe)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l41lVz8x8cZha7k1i/giphy.gif" alt="Coding GIF" width="300">
-</div>
