@@ -13,6 +13,10 @@
 - [🔢 Calculator App](#) - A basic calculator app developed during my internship.
 - [📖 Robo Friends](#) - An interactive web application displaying robot cards with search functionality.
 
+## Achievements
+- **Ace Badge**: Awarded by Infosys Springboard for excellence in [specific achievement or skill, e.g., "backend development"].  
+  ![Ace Badge](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6)
+
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
