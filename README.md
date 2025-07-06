@@ -39,13 +39,17 @@
 - **Introduction to Generative AI** – Google (Oct 2024)  
 - **Introduction to Web Development** – IBM (Jul 2024)  
 - **Cybersecurity for Beginners** – Tata STRIVE (Nov 2024)  
-- **Responsible and Safe AI Systems** – NPTEL (Jul–Oct 2024)  
+- **Responsible and Safe AI Systems** – NPTEL (Jul–Oct 2024)
+   
+## 🏅 Badge Achievements
 
-### Badge Achievements
-- **Ace Badge**: Awarded by Infosys Springboard for completing 25 quiz resources.  
+### 🔥 LeetCode
+- **50 Days Badge 2025**  
+  ![50 Days Badge](https://assets.leetcode.com/static_assets/others/2550.gif)
+
+### 🌟 Infosys Springboard
+- **Ace Badge**: Awarded for completing 25 quiz resources  
   ![Ace Badge](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6)
-
----
 
 ## 🌟 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
