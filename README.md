@@ -51,15 +51,20 @@
 - **Ace Badge**: Awarded for completing 25 quiz resources  
   ![Ace Badge](https://gameconfig.onwingspan.com/Gamification/GetBadgeImage/?AppId=53243&TokenNo=O55WBL7J2F&BadgeCode=5W5G76DYM6)
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
-<div align="left">
-  <img src="./assets/icons/html-icon.svg" height="40" alt="HTML" />
-  <img src="./assets/icons/css-icon.svg" height="40" alt="CSS" />
-  <img src="./assets/icons/js-icon.svg" height="40" alt="JavaScript" />
-  <!-- Add more as needed -->
-</div>
-
+<p align="left">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" alt="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="REST API" />
+</p>
 
 ---
 
