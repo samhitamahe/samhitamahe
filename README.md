@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 🎓 **B.Tech in Information Technology** @ Velammal College of Engineering & Technology, Madurai (2022 – 2026, CGPA: 8.5)  
 💡 **Career Objective**: *Driven by a passion for innovation and continuous learning, I thrive on building cutting-edge, user-centric solutions that elevate user experiences and drive meaningful impact.*  
-💻 Exploring **Generative AI**, **Advanced Web Development**, and **Cybersecurity**  
+💻 Exploring **Web Development**, **AI/ML**, and **Java Full Stack Development**  
 💬 Open to **collaboration**, **internships**, and **innovative projects**!
 
 ---
